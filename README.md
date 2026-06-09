@@ -8,7 +8,7 @@ Proyek ini adalah Curriculum Vitae (CV) interaktif berbentuk _landing page_ yang
 - **Three.js** - Menampilkan _background_ partikel 3D yang interaktif terhadap pergerakan _mouse_.
 - **GSAP** - _GreenSock Animation Platform_ untuk efek transisi dan animasi tulisan/konten yang smooth.
 - **Vanilla JavaScript & CSS** - Styling.
-- **Catppuccin Mocha** - Sebagai referensi _color palette_ .
+- **Catppuccin Mocha** - Sebagai referensi _color palette_.
 
 ## 📋 Persyaratan (Prerequisites)
 
